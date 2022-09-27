@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="conversions">
+        <item>de polzada a centimetres</item>
+        <item>de iarda a metre</item>
+        <item>de milla a kilometro</item>
+        <item>de centimetre a polzada</item>
+        <item>de metre a iarda</item>
+        <item>de kilometro a milla</item>
+    </string-array>
+
+</resources>
